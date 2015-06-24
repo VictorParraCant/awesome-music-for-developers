@@ -21,3 +21,7 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Pedro J. Parra](http://pedrojparra.es/) has waived all copyright and related or neighboring rights to this work.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pedroparra/awesome-music-for-developers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
